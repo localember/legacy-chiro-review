@@ -3,7 +3,7 @@ H1: Exercise smarter, not harder: tips from a Cary chiropractor
 Most people in Cary are proud of hard work and hitting their goals. It is natural to enjoy the praise that comes with results. These days, though, reaching a goal is not enough; we want to reach it faster. There are good reasons why fast is not always the right speed, and rushing toward results can actually set you back.
 
 ## A familiar story
-You have heard it before. Someone decides to get in shape. They buy the clothes, the shoes and the gym membership, go a few times, and expect a perfect body almost right away.
+You have heard it before. A person makes up their mind to get fit. They buy the clothes, the shoes and the gym membership, go a few times, and expect a perfect body almost right away.
 
 In reality they skip proper preparation, overdo it early, and end up sore for days or hurt, which brings even longer delays and possibly medical bills. Many never reach the goal because they tried to rush it, working out harder instead of smarter.
 
@@ -16,6 +16,6 @@ The smartest plan is slow, gradual and long term, adjusted to your age and fitne
 Use the same gradual approach for any kind of exercise. With weights, pilates or yoga, start very slowly. Listen to your body; less is more over time. Stay consistent and you will start to see great results, like more energy, better posture and flexibility, healthier skin and more restful sleep.
 
 ## Chiropractic: another smart move
-Chiropractic care in Cary pairs well with any exercise plan. As you build strength and fitness, small injuries can slip by unnoticed. Regular adjustments can help prevent injuries or speed healing by improving joint mobility. Most injuries come from tight muscles and poor flexibility, and chiropractic restores and maintains flexibility in your spinal joints so your spine can handle the demands of regular exercise. Chiropractic should be a core part of any exercise program.
+Chiropractic care in Cary pairs well with any exercise plan. As you build strength and fitness, small injuries can slip by unnoticed. Regular adjustments can help prevent injuries or speed healing by improving joint mobility. Most injuries come from tight muscles and poor flexibility, and chiropractic restores and maintains flexibility in your spinal joints so your spine can handle the demands of regular exercise. Every fitness plan should include chiropractic.
 
-Do not wait for an injury to start chiropractic care. Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.
+Start chiropractic before an injury forces the issue. Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.

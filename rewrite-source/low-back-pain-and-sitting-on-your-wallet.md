@@ -6,7 +6,7 @@ We all sit, and most of us sit too much. That is a topic of its own; today is ab
 As a chiropractor I see low back and hip pain all the time. I see my job as helping people get well and also teaching them to stay well. Part of that is detective work to find harmful daily habits, and for men a common one is sitting on a wallet. It is risky because it puts uneven stress on the pelvis and low back.
 
 ## What it does to your spine
-A back pocket wallet can contribute to a misaligned pelvis and abnormal spinal curves. Even a slim wallet can throw off the posture of the spine and pelvis. Over time that stress can contribute to disc herniation and spinal degeneration and lead to low back pain or sciatica.
+A back pocket wallet can contribute to a misaligned pelvis and abnormal spinal curves. A wallet does not have to be thick to cause trouble; even a thin one tilts your pelvis and spine out of line. Sit that way for years and the uneven load can help wear down discs, leading to herniation, degeneration, low back pain or sciatica.
 
 ## The fix
 Use your front pockets, a coat pocket, a briefcase or a backpack instead.

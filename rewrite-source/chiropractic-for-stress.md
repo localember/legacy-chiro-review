@@ -14,6 +14,6 @@ How do we respect the way we are built when everyday stress hits? The healthiest
 Chiropractic is an excellent way to help your body adapt to stress, for three reasons:
 - An adjustment creates healthy movement in the spine, which checks the movement box.
 - An adjustment lets your brain release endorphins and enkephalins, the body's natural feel-good chemicals. That is one reason patients often feel relaxed right after being adjusted.
-- Most important, an adjustment lowers stress on the nervous system so it can control and coordinate your body's functions more efficiently.
+- Above all, adjustments take pressure off the nervous system, freeing it to run and coordinate everything your body does more efficiently.
 
-Stress is everywhere, and your body will meet it with fight or flight. Chiropractic is ideally suited to help you adapt to stress more efficiently and stay healthy. Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.
+Stress is everywhere, and your body will meet it with fight or flight. Few approaches fit as well as chiropractic for helping you handle stress better and stay well. Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.

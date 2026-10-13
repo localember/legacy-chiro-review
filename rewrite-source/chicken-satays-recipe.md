@@ -1,9 +1,9 @@
 TITLE: Chicken Satay Recipe from a Cary Chiropractor
 H1: A Cary chiropractor's favorite chicken satay recipe
-These chicken satays have been a Ballam family favorite for years. The recipe comes from the cookbook Food to Live By, and it is a fun change of pace for chicken night. Plus, any recipe with peanut butter has to be good.
+These chicken satays have been a Ballam family favorite for years. The recipe comes from the cookbook Food to Live By, and it is a fun change of pace for chicken night. And honestly, peanut butter makes everything better.
 
 ## Why these spices are good for you
-- <b>Turmeric</b> gives curry its yellow color and is rated among the healthiest foods in the world. It is a strong anti-inflammatory and has shown cancer-fighting properties. It may also improve liver function, lower cholesterol and help protect against Alzheimer's disease.
+- <b>Turmeric</b> gives curry its yellow color and is rated among the healthiest foods in the world. It fights inflammation powerfully and has shown cancer-fighting potential. Research also links it to better liver function, lower cholesterol and protection against Alzheimer's disease.
 - <b>Coriander</b> has long been called an "anti-diabetic" spice for its ability to help control blood sugar. It also helps lower cholesterol and calm inflammation.
 - <b>Cumin</b> is rich in vitamins, minerals and antioxidants, supports the immune system and helps digestion.
 

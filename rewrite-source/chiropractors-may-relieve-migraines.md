@@ -12,6 +12,6 @@ To be considered a migraine sufferer, a person must have had at least five episo
 ## How chiropractic care helps
 When you come to a Cary chiropractor for migraines, you get a full assessment of what is happening in your head and spine. X-rays or other tests may be needed to get the most complete picture before care begins.
 
-Your chiropractor will likely adjust your spine to relieve pressure or stress that may be feeding your migraines. Adjustments can also improve blood flow and reduce pain. If certain foods are making your migraines worse, you may get nutrition advice to remove those triggers. Posture guidance and relaxation techniques round out the plan. See our <a href="/legacy-chiro-review/headaches-migraines/">headache and migraine page</a>.
+Your chiropractor will likely adjust your spine to relieve pressure or stress that may be feeding your migraines. Better blood flow and less pain are two more benefits adjustments can bring. If certain foods are making your migraines worse, you may get nutrition advice to remove those triggers. Posture guidance and relaxation techniques round out the plan. See our <a href="/legacy-chiro-review/headaches-migraines/">headache and migraine page</a>.
 
 Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.

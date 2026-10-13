@@ -8,7 +8,7 @@ Statistics show that roughly 80 to 90% of people will deal with spine problems o
 - Learn your ideal weight and try to stay within 10 pounds of it. Extra weight stresses every part of your frame, the spine included.
 - Build your core. Weak core muscles can pull the whole body out of alignment, beginning with the low back.
 - Eat sensible portions of healthy food, and pair it with an exercise routine that fits your schedule. You will see the difference in your weight, your health and your confidence.
-- Stretch before and after every workout.
+- Warm up with stretches before exercise and cool down with them afterward.
 - Check with your physician before starting a new diet or exercise plan, since your health history may call for professional guidance.
 
 ## Quit smoking

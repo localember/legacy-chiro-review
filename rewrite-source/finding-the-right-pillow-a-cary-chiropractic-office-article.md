@@ -1,6 +1,6 @@
 TITLE: How to Choose the Right Pillow | Cary Chiropractor
 H1: How to choose the right pillow, from a Cary chiropractor
-Patients often ask me which pillow I recommend. I do not work for any pillow company, but I do have advice on picking the best one for you. The quick answer: any pillow that does not cause a subluxation in your spine. Here is what that means.
+Patients often ask me which pillow I recommend. I do not work for any pillow company, but I do have advice on picking the best one for you. In short, the right pillow is whichever one leaves your spine free of subluxations. Here is what that means.
 
 ## Why sleep matters to your spine
 My job as a chiropractor is to find and correct subluxations in your spine, and if I spot ways you may be adding new ones, I will tell you. Subluxations come from trauma, bad habits, or both, and for many people sleep position is one of those habits.

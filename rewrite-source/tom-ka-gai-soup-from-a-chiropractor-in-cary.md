@@ -1,10 +1,10 @@
 TITLE: Tom Ka Gai Soup Recipe | Chiropractor in Cary
 H1: Tom Ka Gai soup, a recipe from a chiropractor in Cary
-On a recent trip to Wilmington we found a lovely little restaurant called Indochine (we highly recommend it). There we tried Tom Ka Gai for the first time, which we learned is the classic Thai soup. A week later I was still thinking about it, so I made it at home. Ours was not quite as good as Indochine's, but it was delicious and hit the spot. It works as an appetizer, as lunch, or as dinner with a salad. Here is the recipe we used.
+On a recent trip to Wilmington we found a lovely little restaurant called Indochine (we highly recommend it). There we tried Tom Ka Gai for the first time, which we learned is the classic Thai soup. A week later I was still thinking about it, so I made it at home. Ours was not quite as good as Indochine's, but it was delicious and hit the spot. It works as an appetizer, as lunch, or as dinner with a salad. This is how we made it.
 
 ## Health benefits
-- <b>Cilantro:</b> detoxifying. A good source of thiamin and zinc, and a very good source of dietary fiber, vitamin A, vitamin C, vitamin E (alpha tocopherol), vitamin K, riboflavin, niacin, vitamin B6, folate, pantothenic acid, calcium, iron, magnesium, phosphorus, potassium, copper and manganese.
-- <b>Coconut milk:</b> helps balance blood sugar and increase energy. A great source of manganese.
+- <b>Cilantro:</b> supports detox. It supplies thiamin and zinc, and is especially rich in dietary fiber, vitamin A, vitamin C, vitamin E (alpha tocopherol), vitamin K, riboflavin, niacin, vitamin B6, folate, pantothenic acid, calcium, iron, magnesium, phosphorus, potassium, copper and manganese.
+- <b>Coconut milk:</b> rich in manganese, and it can help keep blood sugar steady and boost energy.
 
 ## Ingredients
 - 1 lb boneless skinless chicken thighs or breast

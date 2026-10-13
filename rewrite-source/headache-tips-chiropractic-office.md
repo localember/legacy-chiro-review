@@ -13,6 +13,6 @@ The biggest tip we can give is to take action yourself. If your job keeps you si
 If you tend to get dull, throbbing headaches, skip heavy exercise until they are under control. Keep working out, but lean toward low impact activities. Avoid clenching your teeth while exercising or at any time, since it strains the jaw joints. Dehydration is a major trigger, so drink water all day.
 
 ## See your chiropractor
-If headaches continue after these steps, book a visit with our team at Legacy Chiropractic. Spinal adjustments work well for headaches that start in the neck or upper back. Once misaligned vertebrae are back in place and normal function returns, your headache pain may ease.
+If headaches continue after these steps, book a visit with our team at Legacy Chiropractic. Spinal adjustments work well for headaches that start in the neck or upper back. With the vertebrae realigned and working normally again, the headaches may let up.
 
 Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.

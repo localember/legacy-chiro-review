@@ -13,4 +13,4 @@ Symptoms start when the disc presses on spinal nerves. Close to 90% of bulging d
 ## How chiropractic helps
 Chiropractic care for a bulging disc may include gentle adjustments at the problem area along with exercises. Every patient is treated as an individual, with a plan tailored for the best results. Several visits are usually needed to bring the disc back to where it should be and keep progress steady. Learn more about our <a href="/legacy-chiro-review/disc-injury/">disc injury care</a>.
 
-We hope this helps you make the best decision for your health. Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.
+We hope this guide helps you choose well for your health. Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.

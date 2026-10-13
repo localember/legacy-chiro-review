@@ -5,10 +5,10 @@ Your body has several kinds of joints, including ball-and-socket, gliding, hinge
 ## What is joint inflammation?
 Inflammation is a normal part of your immune response. After an injury, some inflammation actually helps you heal. Sometimes, though, inflammation feeds more inflammation, and that is a problem.
 
-Arthritis is the most common form of joint inflammation, and almost everyone knows someone with it. The two main types are osteoarthritis and rheumatoid arthritis. Osteoarthritis is wear and tear on the joints from injury, overuse or normal aging. Rheumatoid arthritis happens when the immune system malfunctions and inflames the joints.
+Of all the kinds of joint inflammation, arthritis tops the list, and nearly all of us know someone living with it. It comes in two main forms: osteoarthritis and rheumatoid arthritis. Osteoarthritis develops as joints wear down through injury, heavy use or simply getting older. Rheumatoid arthritis happens when the immune system malfunctions and inflames the joints.
 
 ## Foods that can trigger it
-Some foods tend to set off joint inflammation in many people, so you may be advised to cut back on them. Common offenders include processed sugar, trans fats, refined flour, MSG, gluten and alcohol. Certain eating plans have shown good results in lowering inflammation.
+Some foods tend to set off joint inflammation in many people, so you may be advised to cut back on them. Frequent culprits are processed sugar, trans fats, refined flour, MSG, gluten and alcohol. Some diets have a good track record for bringing inflammation down.
 
 ## How we help
 At Legacy Chiropractic, we regularly use joint adjustments to calm inflammation and address the cause of joint pain. Every patient and every case is different, so we tailor care for the best result. Ultrasound therapy or ice may also be part of your plan.

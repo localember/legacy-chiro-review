@@ -1,6 +1,6 @@
 TITLE: Chiropractic and Ear Infections in Children | Cary NC
 H1: Chiropractic for children's ear infections in Cary
-A growing number of parents are turning to chiropractic when their child has an ear infection. These infections are extremely common in American kids. An ear infection, or otitis media, is an acute infection of the middle ear caused by a virus or bacteria. It hurts because rising pressure inside the ear stretches the eardrum. When your doctor looks in your child's ear, redness, swelling and fluid are the classic signs. Ear infections are the illness most often diagnosed in children, and the most common reason children are given antimicrobial drugs.
+A growing number of parents are turning to chiropractic when their child has an ear infection. These infections are extremely common in American kids. Otitis media is the medical name for an ear infection: a sudden viral or bacterial infection in the middle ear. It hurts because rising pressure inside the ear stretches the eardrum. When your doctor looks in your child's ear, redness, swelling and fluid are the classic signs. Ear infections are the illness most often diagnosed in children, and the most common reason children are given antimicrobial drugs.
 
 ## Signs of ear pain
 - Holding, tugging or rubbing the ear again and again
@@ -21,7 +21,7 @@ Antibiotic-resistant bacteria, antibiotics used for viral infections, antibiotic
 ## The natural approach
 Chiropractic works with the nervous system, the brain, spinal cord and nerves that carry messages through the whole body. Subluxations at the top of the neck can happen during birth. They weaken vital nerve signals, which can lower how well the body functions, and they may also keep the Eustachian tubes from draining properly. A child's Eustachian tubes run more horizontally than an adult's more vertical tubes, so they clog more easily.
 
-Our office uses the Gonstead Technique, a safe, gentle approach for children that uses the least force needed and the most precision to correct a subluxation. When the subluxation is corrected, children usually respond well within 24 hours. In one case study, 46 children with otitis media were checked for subluxations and adjusted. After one or two visits, 93% of all episodes improved, 75% of them within 10 days or less. (J Manipulative Physiol Ther 1996 (Mar); 19(3): 169-177)
+Our office uses the Gonstead Technique, a safe, gentle approach for children that uses the least force needed and the most precision to correct a subluxation. When the subluxation is corrected, children usually respond well within 24 hours. One case study followed 46 children who had otitis media; each was examined for subluxations and adjusted. After one or two visits, 93% of all episodes improved, 75% of them within 10 days or less. (J Manipulative Physiol Ther 1996 (Mar); 19(3): 169-177)
 
 ## Treat the cause
 Whatever the symptom, the best fix targets the cause. It is tempting to chase the quickest relief and overlook the real problem. Chiropractic is safe and natural. Give us a call so your little one can get back to feeling their best. Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.

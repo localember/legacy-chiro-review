@@ -11,6 +11,6 @@ Avoid driving when you are exhausted, upset or angry. Strong emotions and drowsi
 Staying in good physical condition is another tip worth following. When your body is strong and flexible, recovering from most accidents is much easier. No one plans to crash, but a healthy body helps here too, along with all its other benefits. Any regular exercise that builds strength and flexibility is a good choice.
 
 ## Get checked right away
-Whatever shape you are in, get your injuries examined as soon as you can after an accident. If you wait, scar tissue can become a permanent part of your muscles and tendons, limiting your motion and causing pain. If your injuries do not seem to call for the emergency room, at least book a visit with our Cary team at Legacy Chiropractic to make sure nothing turns into a chronic problem later. Learn more about our <a href="/legacy-chiro-review/whiplash/">whiplash and car accident care</a>.
+Whatever shape you are in, get your injuries examined as soon as you can after an accident. Put it off and scar tissue may settle permanently into the muscles and tendons, leaving you stiff and sore. If your injuries do not seem to call for the emergency room, at least book a visit with our Cary team at Legacy Chiropractic to make sure nothing turns into a chronic problem later. Learn more about our <a href="/legacy-chiro-review/whiplash/">whiplash and car accident care</a>.
 
 Questions? Call our Cary office at <a href="tel:+19193632277">(919) 363-2277</a>.
