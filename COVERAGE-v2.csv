@@ -5,7 +5,7 @@ old_url,new_path,status,page type,blog status,launch redirect
 /5-tips-to-survive-the-holidays/,/5-tips-to-survive-the-holidays/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
 /accessibility/,/accessibility/,same-URL,"carry-over, rewritten in original wording",,
 /achieve-healthier-spine/,/achieve-healthier-spine/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
-/acid-reflux-septembers-testimonial-of-the-month/,/acid-reflux-septembers-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,CONFLICT: page is published on preview at this URL; audit maps 301 to /testimonials/; decide before launch
+/acid-reflux-septembers-testimonial-of-the-month/,/acid-reflux-septembers-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
 /affordable-pediatric-chiropractic-care/,/affordable-pediatric-chiropractic-care/,same-URL,"blog post, rewritten in original wording",KEEP published,
 /ai-generated-content-disclaimer/,/ai-generated-content-disclaimer/,same-URL,"carry-over, rewritten in original wording",,
 /allergies/,/allergies/,same-URL,"carry-over, rewritten in original wording",,
@@ -14,14 +14,14 @@ old_url,new_path,status,page type,blog status,launch redirect
 /arm-leg-pain/,/arm-leg-pain/,same-URL,rebuilt (new text),,
 /asthma/,/asthma/,same-URL,"carry-over, rewritten in original wording",,
 /athletes-improve-chiropractic-care/,/athletes-improve-chiropractic-care/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
-/back-and-neck-pain-augusts-testimonial-of-the-month/,/back-and-neck-pain-augusts-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,CONFLICT: page is published on preview at this URL; audit maps 301 to /testimonials/; decide before launch
+/back-and-neck-pain-augusts-testimonial-of-the-month/,/back-and-neck-pain-augusts-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
 /back-pain/,/back-pain/,same-URL,rebuilt (new text),,
 /back-pain-relief-naturally/,/back-pain-relief-naturally/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /back-pain/ at launch; remove redirect when post is published at this URL, verify it loads"
 /back-pain-tips-chiropractor/,/back-pain-tips-chiropractor/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /back-pain/ at launch; remove redirect when post is published at this URL, verify it loads"
 /bedwetting/,/bedwetting/,same-URL,"carry-over, rewritten in original wording",,
 /blog/,/blog/,same-URL,generated index,,
 /blood-pressure/,/blood-pressure/,same-URL,"carry-over, rewritten in original wording",,
-/brain-fog-and-arm-weakness-julys-testimonial-of-the-month/,/brain-fog-and-arm-weakness-julys-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,CONFLICT: page is published on preview at this URL; audit maps 301 to /testimonials/; decide before launch
+/brain-fog-and-arm-weakness-julys-testimonial-of-the-month/,/brain-fog-and-arm-weakness-julys-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
 /bullet-proof-your-low-back/,/bullet-proof-your-low-back/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /back-pain/ at launch; remove redirect when post is published at this URL, verify it loads"
 /car-accident-tips-chiropractor/,/car-accident-tips-chiropractor/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /whiplash/ at launch; remove redirect when post is published at this URL, verify it loads"
 /carpal-tunnel/,/carpal-tunnel/,same-URL,rebuilt (new text),,
@@ -57,7 +57,7 @@ old_url,new_path,status,page type,blog status,launch redirect
 /describe-your-concern/,/describe-your-concern/,same-URL,rebuilt (new text),,
 /dinner-with-the-doc-at-annas-pizzeria/,/dinner-with-the-doc-at-annas-pizzeria/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
 /disc-injury/,/disc-injury/,same-URL,rebuilt (new text),,
-/dramatic-posture-change-october-testimonial-of-the-month/,/dramatic-posture-change-october-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,CONFLICT: page is published on preview at this URL; audit maps 301 to /testimonials/; decide before launch
+/dramatic-posture-change-october-testimonial-of-the-month/,/dramatic-posture-change-october-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
 /educational-requirements-chiropractor/,/educational-requirements-chiropractor/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
 /exercise-smarter/,/exercise-smarter/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
 /finding-chiropractor/,/finding-chiropractor/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
@@ -66,7 +66,7 @@ old_url,new_path,status,page type,blog status,launch redirect
 /fun-health-facts-i-bet-you-didnt-know/,/fun-health-facts-i-bet-you-didnt-know/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
 /gonstead-system/,/gonstead-system/,same-URL,rebuilt (new text),,
 /good-faith-estimate/,/good-faith-estimate/,same-URL,"carry-over, rewritten in original wording",,
-/happy-thanksgiving-novembers-testimonial/,/happy-thanksgiving-novembers-testimonial/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,CONFLICT: page is published on preview at this URL; audit maps 301 to /testimonials/; decide before launch
+/happy-thanksgiving-novembers-testimonial/,/happy-thanksgiving-novembers-testimonial/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
 /headache-tips-chiropractic-office/,/headache-tips-chiropractic-office/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /headaches-migraines/ at launch; remove redirect when post is published at this URL, verify it loads"
 /headaches-and-the-spine/,/headaches-and-the-spine/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /headaches-migraines/ at launch; remove redirect when post is published at this URL, verify it loads"
 /headaches-migraines/,/headaches-migraines/,same-URL,rebuilt (new text),,
@@ -77,17 +77,17 @@ old_url,new_path,status,page type,blog status,launch redirect
 /hipaa-privacy-policy/,/hipaa-privacy-policy/,same-URL,"carry-over, rewritten in original wording",,
 /,/,same-URL,rebuilt (new text),,
 /improve-golf-game-chiropractic/,/improve-golf-game-chiropractic/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
-/infant-re-flux/,/infant-re-flux/,same-URL,rebuilt (new text),,CONFLICT: page is published on preview at this URL; audit maps 301 to /blog/; decide before launch
-/junes-testimonial-of-the-month-back-spasms-and-disc-herniation/,/junes-testimonial-of-the-month-back-spasms-and-disc-herniation/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,CONFLICT: page is published on preview at this URL; audit maps 301 to /testimonials/; decide before launch
+/infant-re-flux/,/infant-re-flux/,same-URL,rebuilt (new text),,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
+/junes-testimonial-of-the-month-back-spasms-and-disc-herniation/,/junes-testimonial-of-the-month-back-spasms-and-disc-herniation/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
 /just-back-pain/,/just-back-pain/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /back-pain/ at launch; remove redirect when post is published at this URL, verify it loads"
 /kale-5-ways-to-use-and-love-it-from-a-chiropractor-in-cary/,/kale-5-ways-to-use-and-love-it-from-a-chiropractor-in-cary/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
 /knee-pain/,/knee-pain/,same-URL,rebuilt (new text),,
 /layered-powerhouse-salad/,/layered-powerhouse-salad/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /blog/ at launch; remove redirect when post is published at this URL, verify it loads"
-/low-back-pain-and-sitting-on-your-wallet/,/low-back-pain-and-sitting-on-your-wallet/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /back-pain/ at launch; remove redirect when post is published at this URL, verify it loads"
-/migraines-mays-testimonial-of-the-month/,/migraines-mays-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,CONFLICT: page is published on preview at this URL; audit maps 301 to /headaches-migraines/; decide before launch
+/low-back-pain-and-sitting-on-your-wallet/,/low-back-pain-and-sitting-on-your-wallet/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /sciatica/ at launch; remove redirect when post is published at this URL, verify it loads"
+/migraines-mays-testimonial-of-the-month/,/migraines-mays-testimonial-of-the-month/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
 /neck-lower-back-pain-decembers-success-story/,/neck-lower-back-pain-decembers-success-story/,"HOLD draft, redirect TBD","blog post, rewritten draft (not published)",pending SEO & Rankings list,"301 to /testimonials/ at launch; remove redirect when post is published at this URL, verify it loads"
 /neck-pain/,/neck-pain/,same-URL,rebuilt (new text),,
-/nose-bleeds-and-knee-pain-patient-testimonial/,/nose-bleeds-and-knee-pain-patient-testimonial/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,CONFLICT: page is published on preview at this URL; audit maps 301 to /testimonials/; decide before launch
+/nose-bleeds-and-knee-pain-patient-testimonial/,/nose-bleeds-and-knee-pain-patient-testimonial/,same-URL,"carry-over (patient words kept as-is), Brevin Oct 13 6:17 PM",,"stays published at this URL, no redirect (Brevin Oct 13 7:01 PM)"
 /office-tour/,/office-tour/,same-URL,rebuilt (new text),,
 /payment-options/,/payment-options/,same-URL,rebuilt (new text),,
 /pregnancy/,/pregnancy/,same-URL,rebuilt (new text),,
